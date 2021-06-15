@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ORINOTOREO.github.io/#overvision" resolutions="1x,2x" timestamp="1623751474926">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ORINOTOREO.github.io/#overvision" resolutions="1x,2x" timestamp="1623754905749">
   <folder name="css">
     <file name="site_global.css" crc="195096616"/>
-    <file name="index.css" crc="314366136" ref="index"/>
+    <file name="index.css" crc="103128636" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -157,5 +157,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3810041340" seo="true" mt="1623751262241" redirect="true"/>
+  <file name="index.html" crc="374479061" seo="true" mt="1623754857985" redirect="true"/>
 </manifest>
